@@ -6,4 +6,4 @@
 * [Odyssey MS/HS Information](_posts/2017-08-03-odyssey-mshs.md)
 * [Greetings from Principal Brock](_posts/2017-08-03-greetings-from-prinicpal-brock.md)
 * [Back to School Bash to be held August 8](_posts/2017-08-03-back-to-school-bash-to-be-held-august-8.md)
-* 
+* [Countdown to the Start of the School Year](_posts/2017-07-27-countdown-to-back-to-school.md)
