@@ -1,0 +1,16 @@
+---
+ID: 491
+post_title: Maple Syrup Weekend
+author: Jon Morgan
+post_excerpt: ""
+layout: post
+permalink: 'http://www.shepherdhistory.org?p=491&preview=true&preview_id=491'
+published: false
+---
+<img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image.jpeg" alt="null" width="624" height="622" />
+
+Want to know how sap becomes maple syrup? Come to the Shepherd Sugar Bush today or tomorrow from 10:00 - 4:00 Some of The Little Miss Shepherds Princess Pageant girls were in attendance. Children of all ages were enjoying the pancakes and that good Maple Ice Cream.
+
+<img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-1.jpeg" alt="null" width="565" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-2.jpeg" alt="null" width="800" height="800" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-3.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-4.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-5.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-6.jpeg" alt="null" width="800" height="886" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-7.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-8.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-9.jpeg" alt="null" width="613" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-10.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-11.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-12.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-13.jpeg" alt="null" width="800" height="800" />
+
+<img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-14.jpeg" alt="null" width="624" height="836" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-15.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-16.jpeg" alt="null" width="716" height="960" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-17.jpeg" alt="null" width="800" height="400" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-18.jpeg" alt="null" width="800" height="898" /><img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/image-19.jpeg" alt="null" width="521" height="960" />
