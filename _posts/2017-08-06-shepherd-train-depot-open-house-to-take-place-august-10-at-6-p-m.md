@@ -6,8 +6,10 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2833&preview=true&preview_id=2833'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/shepherd-train-depot-open-house-to-take-place-august-10-at-6-p-m/
+published: true
+post_date: 2017-08-06 17:35:37
 ---
 <p style="text-align: center;"><u>Shepherd DEPOT Committee</u></p>
 <p style="text-align: center;">Of the Shepherd Railroad Museum Association</p>
