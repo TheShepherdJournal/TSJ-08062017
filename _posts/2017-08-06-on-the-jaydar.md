@@ -4,8 +4,10 @@ post_title: On the Jaydar
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2862&preview=true&preview_id=2862'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/on-the-jaydar/
+published: true
+post_date: 2017-08-06 21:55:04
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/08/images2Fimg_2693jpg.txt.jpeg" alt="images/img_2693jpg.txt" width="3264" height="4352" />
 
@@ -24,15 +26,12 @@ On August 2, Chief Sawyer announced that the radar speed sign had been set up. B
 <blockquote>Our radar speed sign is up and in-service. We have several locations around the village where brackets for the sign have already been installed so we are able to easily move its location.
 This is a pro-active tool that reminds all of us to watch our speed by giving us instant feedback.</blockquote>
 Then, Chief Sawyer announced a contest for a name to assign to the sign. This resulted in four strong candidates:
-
-The radar sign has moved! We need a name for it…so we can play Where’s Waldo with it. We have a gift for the best name!
+<blockquote>The radar sign has moved! We need a name for it…so we can play Where’s Waldo with it. We have a gift for the best name!
 
 Speed Sign Naming…ALL of the entries were very unique. But…4 of them stood out as the best. Whichever of these gets the most LIKES in the next 24 hours wins!
 - BlueRay submitted by Ken and Christina
 - Jaydar submitted by Genny
 - Buster submitted by Damien, Miranda and Mark
-- Roscoe submitted by Angela
-
+- Roscoe submitted by Angela</blockquote>
 And Genny Farrell won the prize for the name with the highest votes:
-
-We had 197 people vote on the name for the Radar Sign…with all of the choices receiving many votes…But, the winner is JAYDAR! Congratulations to Genny Farrell on coming up with such a cool name. Your prize will be delivered to you this week!
+<blockquote>We had 197 people vote on the name for the Radar Sign…with all of the choices receiving many votes…But, the winner is JAYDAR! Congratulations to Genny Farrell on coming up with such a cool name. Your prize will be delivered to you this week!</blockquote>
