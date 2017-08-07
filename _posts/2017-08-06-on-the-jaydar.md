@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2017-08-06 21:55:04
 ---
-<img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/08/images2Fimg_2693jpg.txt.jpeg" alt="images/img_2693jpg.txt" width="3264" height="4352" />
+&nbsp;
+
+<img class="alignnone size-medium wp-image-2867" src="http://www.shepherdhistory.org/wp-content/uploads/2017/08/IMG_2693-336x448.jpg" alt="" width="336" height="448" />
 
 A few weeks ago, the Shepherd Police Department received a donation which allowed them to purchase a sign and radar system which could be used as a deterrent to speeders in the town.
 
